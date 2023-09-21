@@ -21,8 +21,4 @@ Isso é tudo que você precisa para usar o site! É simples e direto.
 
 Não aceitamos contribuições neste projeto, pois é destinado apenas para fins de demonstração.
 
-## Licença
-
-Este projeto está sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
 Obrigado por conferir o meu projeto!
